@@ -8,7 +8,7 @@ To avoid shpiing cost & time, customers can select a store and schedule a date &
 
 ### 2. Full Features
 <hr>
- ### Enable store pickup facility for customers
+ <b> Enable store pickup facility for customers<b/>
 <br>
 With the help of Magento 2 Store Pickup extension, you can offer store pickup facility. Allow customers to choose store pick up in Shipping Methods in order to collect products from nearest store. This will save the time and money a delivery takes. Allow customers to:
 
