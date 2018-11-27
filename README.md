@@ -67,6 +67,11 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 </ul>
 
 ## Other Extensions by FME on Marketplace, Github
-<hr>
 
 <a href="https://www.fmeextensions.com/gdpr-compliance-extension-magento-2.html">Magento 2 GDPR</a>
+
+<a href="https://www.fmeextensions.com/product-attachments-file-uploads-magento-2.html">Magento 2Product Attachments</a>
+
+<a href="https://www.fmeextensions.com/faq-ask-product-questions-magento-2.html">Magento 2 Product Questions</a>
+
+<a href="https://www.fmeextensions.com/seo-friendly-blog-articles-magento-2.html">Magento 2 Blog</a>
