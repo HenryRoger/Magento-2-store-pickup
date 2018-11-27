@@ -98,3 +98,28 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 
 <a href="https://www.fmeextensions.com/advance-faq-module-magento-2.html">Magento 2 FAQ Extension</a>
 
+<a href="https://www.fmeextensions.com/advance-contact-us-form-popup-magento-2.html">Magento 2 Contact Form Extension</a>
+
+<a href="https://www.fmeextensions.com/canonical-url-extension-magento-2.html">Magento 2 Canonical URL Extension</a>
+
+<a href="https://www.fmeextensions.com/coming-soon-maintenance-mode-extension-magento-2.html">Magento 2 Maintenance Mode</a>
+
+<a href="https://www.fmeextensions.com/magento-2-size-chart-extension.html">Magento 2 Size Chart</a>
+
+<a href="https://www.fmeextensions.com/responsive-email-templates-extension-magento-2.html">Magento 2 Email Templates</a>
+
+<a href="https://www.fmeextensions.com/gift-wrap-extension-magento-2.html">Magento 2 Gift Wrap</a>
+
+<a href="https://www.fmeextensions.com/responsive-email-templates-extension-magento-2.html">Magento 2 Email Templates</a>
+
+<a href="https://www.fmeextensions.com/custom-registration-fields-attributes-extension-magento-2.html">Magento 2 Customer Attributes</a>
+
+<a href="https://www.fmeextensions.com/request-callback-hide-price-extension-magento-2.html">Magento 2 Hide Price</a>
+
+<a href="https://www.fmeextensions.com/xml-html-sitemap-seo-extension-magento-2.html">Magento 2 Sitemap</a>
+
+<a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
+
+
+
+
