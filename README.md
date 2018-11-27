@@ -70,8 +70,31 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 
 <a href="https://www.fmeextensions.com/gdpr-compliance-extension-magento-2.html">Magento 2 GDPR</a>
 
-<a href="https://www.fmeextensions.com/product-attachments-file-uploads-magento-2.html">Magento 2Product Attachments</a>
+<a href="https://www.fmeextensions.com/product-attachments-file-uploads-magento-2.html">Magento 2 Product Attachments</a>
 
 <a href="https://www.fmeextensions.com/faq-ask-product-questions-magento-2.html">Magento 2 Product Questions</a>
 
 <a href="https://www.fmeextensions.com/seo-friendly-blog-articles-magento-2.html">Magento 2 Blog</a>
+
+<a href="https://www.fmeextensions.com/product-image-zoom-magento-2.html">Magento 2 Product Image Zoom</a>
+
+<a href="https://www.fmeextensions.com/photo-image-gallery-magento-2.html">Magento 2 Image Gallery</a>
+
+<a href="https://www.fmeextensions.com/layaway-split-partial-payments-magento-2.html">Magento 2 Partial Payment</a>
+
+<a href="https://www.fmeextensions.com/customer-reviews-testimonials-magento-2.html">Magento 2 Review Extension</a>
+
+<a href="https://www.fmeextensions.com/google-maps-store-locator-extension-magento-2.html">Magento 2 Store Locator</a>
+
+<a href="https://www.fmeextensions.com/restrict-store-access-customer-groups-magento-2.html">Magento 2 Restrict by Customer Groups</a>
+
+<a href="https://www.fmeextensions.com/custom-checkout-fields-order-attributes-extension-magento-2.html">Magento 2 Custom Checkout Fields</a>
+
+<a href="https://www.fmeextensions.com/magento-geo-ip-default-store-magento-2.html">Magento 2 Store Switcher</a>
+
+<a href="https://www.fmeextensions.com/geo-ip-default-language-currency-magento-2.html">Magento 2 Language Switcher</a>
+
+<a href="https://www.fmeextensions.com/product-videos-magento-2.html">Magento 2 Product Video</a>
+
+<a href="https://www.fmeextensions.com/advance-faq-module-magento-2.html">Magento 2 FAQ Extension</a>
+
