@@ -8,7 +8,7 @@ To avoid shpiing cost & time, customers can select a store and schedule a date &
 
 ### 2. Full Features
 <hr>
-<b>1. ENABLE STORE PICKUP FACILITY FOR CUSTOMERS</b>
+<b>1. Enable store pickup facility for customers</b>
 
 With the help of Magento 2 Store Pickup extension, you can offer store pickup facility. Allow customers to choose store pick up in Shipping Methods in order to collect products from nearest store. This will save the time and money a delivery takes. Allow customers to:
 
@@ -17,7 +17,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
   <li>Pickup Date & Time</li>
   </ul>
   
-  <b>2. CREATE MULTIPLE STORE LOCATIONS OF YOUR WEB SHOP</b>
+  <b>2. Create multiple store locations of your web shop</b>
   
   Magento 2 Store Pickup & Store Location extension allows you to create multiple store locations with product availability, display them on a Google map. You can add new stores or import them from your Magento 1 shop with the following details;
 
@@ -29,27 +29,27 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 <li>Store City, Country, and Region</li>
  </ul>
  
- <b>3. CREATE A SEPARATE LANDING PAGE FOR EACH STORE</b>
+ <b>3. Create a separate landing page for each store</b>
  
  Magento 2 Store locator extension creates a dedicated page for a store as soon as you add it to your eCommerce website. This separate page exhibits complete store details and contact information along with products availability, Google map directions, and street view options.
  
- <b>4. ADD TAGS TO MAKE YOUR STORES RECOGNIZABLE</b>
+ <b>4. Add tags to make your stores recognizable</b>
  
  You can create and manage a variety of tags that can be added to each store to help the users easily recognize the nearest outlet. Add tags for different locations, product variety, or any attribute that better describes a store.
  
- <b>5. ANNOUNCE HOLIDAYS FOR EACH STORE</b>
+ <b>5. Announce holidays for each store</b>
  
  With Magento 2 store locator extension, you can add and manage an unlimited number of holidays for your stores. Let your customers know the store will be open or closed before they select choose it as a pickup location.
  
- <b>6. MANAGE TIME TABLES FOR MULTIPLE STORES</b>
+ <b>6. Manage time tables for multiple stores</b>
  
  You can create multiple working schedules that exhibit timetable for each day of the week. This helps you easily set working hours for any store you create. Configure timings for store’s opening, break, and closing.
  
- <b>7. ATTACH PRODUCTS TO EACH STORE YOU CREATE</b>
+ <b>7. Attach products to each store you create</b>
  
  You can add products to each store so that a customer can confirm the availability of any specific store item before selecting it as a pickup location.
  
- <b>8. CONFIGURE STORE PAGE SEO SETTINGS</b>
+ <b>8. Configure SEO settings</b>
  
  You can add meta tags to each store as well as the stores' listing page. This ensures better search engine visibility of your multiple store locations and tags.
  
