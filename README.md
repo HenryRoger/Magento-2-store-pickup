@@ -6,8 +6,9 @@ To avoid shpiing cost & time, customers can select a store and schedule a date &
 
 <b>To buy the extension, visit</b> <a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html"> Magento 2 Store Pickup</a>
 
-### 2. Full Features
+### Full Features
 <hr>
+
  <b> Enable store pickup facility for customers</b>
 
 With the help of Magento 2 Store Pickup extension, you can offer store pickup facility. Allow customers to choose store pick up in Shipping Methods in order to collect products from nearest store. This will save the time and money a delivery takes. Allow customers to:
