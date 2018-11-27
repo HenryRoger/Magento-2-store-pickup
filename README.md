@@ -17,7 +17,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
   <li>Pickup Date & Time</li>
   </ul>
   
-  <b> Create multiple store locations of your web shop</b>
+  <H3> Create multiple store locations of your web shop</H3>
   
   Magento 2 Store Pickup & Store Location extension allows you to create multiple store locations with product availability, display them on a Google map. You can add new stores or import them from your Magento 1 shop with the following details;
 
@@ -29,31 +29,31 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 <li>Store City, Country, and Region</li>
  </ul>
  
- <b> Create a separate landing page for each store</b>
+ <H3> Create a separate landing page for each store</H3>
  
  Magento 2 Store locator extension creates a dedicated page for a store as soon as you add it to your eCommerce website. This separate page exhibits complete store details and contact information along with products availability, Google map directions, and street view options.
  
- <b> Add tags to make your stores recognizable</b>
+ <H3> Add tags to make your stores recognizable</H3>
  
  You can create and manage a variety of tags that can be added to each store to help the users easily recognize the nearest outlet. Add tags for different locations, product variety, or any attribute that better describes a store.
  
- <b> Announce holidays for each store</b>
+ <H3> Announce holidays for each store</H3>
  
  With Magento 2 store locator extension, you can add and manage an unlimited number of holidays for your stores. Let your customers know the store will be open or closed before they select choose it as a pickup location.
  
- <b> Manage time tables for multiple stores</b>
+ <H3> Manage time tables for multiple stores</H3>
  
  You can create multiple working schedules that exhibit timetable for each day of the week. This helps you easily set working hours for any store you create. Configure timings for store’s opening, break, and closing.
  
- <b> Attach products to each store you create</b>
+ <H3> Attach products to each store you create</H3>
  
  You can add products to each store so that a customer can confirm the availability of any specific store item before selecting it as a pickup location.
  
- <b> Configure SEO settings</b>
+ <H3> Configure SEO settings</H3>
  
  You can add meta tags to each store as well as the stores' listing page. This ensures better search engine visibility of your multiple store locations and tags.
  
- <b> CONFIGURATION SETTINGS</b>
+ <H3> Configuration Settings</H3>
  
 <ul>
   <li>Enable or Disable the extension</li>
