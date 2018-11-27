@@ -1,2 +1,2 @@
 # Magento 2 Store Pickup with Store Locator Extension
-Magento 2 store pickup extension by FME allows customers to select a store with date &amp; time to pickup their order.  It also allows Merchants to add all their physical stores with details and display them on Google map. 
+Magento 2 store pickup is a feature-rich extension that has additional full features of store locator. It allows convenience and provides a better shopping experience to customers which result in increased sales. 
