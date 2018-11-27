@@ -66,7 +66,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 <li>Set up a URL Identifier for the Store Listings Page</li>
 </ul>
 
-## Other Extensions by FME on Marketplace, Github
+## Other High Quality Magento 2 Extensions by FME on Marketplace, Github
 
 <a href="https://www.fmeextensions.com/gdpr-compliance-extension-magento-2.html">Magento 2 GDPR</a>
 
