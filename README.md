@@ -5,6 +5,7 @@ To avoid shpiing cost & time, customers can select a store and schedule a date &
 
 
 <b>To buy the extension, visit</b> <a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html"> Magento 2 Store Pickup</a>
+<b>Get it from Marketplace</b> <a href="https://marketplace.magento.com/fme-store-pickup.html"> Magento 2 Store Pickup</a>
 
 ## Full Features
 
