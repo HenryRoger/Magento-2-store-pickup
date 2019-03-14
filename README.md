@@ -116,7 +116,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 
 <a href="https://www.fmeextensions.com/magento-2-customer-attributes-extension.html">Magento 2 Customer Attributes</a>
 
-<a href="https://www.fmeextensions.com/xml-html-sitemap-seo-extension-magento-2.html">Magento 2 Sitemap</a>
+<a href="https://www.fmeextensions.com/xml-html-sitemap-seo-extension-magento-2.html">Magento 2 XML Sitemap</a>
 
 <a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
 
