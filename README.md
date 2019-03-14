@@ -4,7 +4,7 @@ Magento 2 store pickup is a feature-rich extension that has additional full feat
 To avoid shpiing cost & time, customers can select a store and schedule a date & time at the shipping method step to pickup their order. It is a great feature as customers can choose a convenient store for their order delivery and they know when it can be picked up.  The extension also offers full features of Magento 2 store locator. Merchants can add unlimited number of point of sales with all their details and display them on Google map. 
 
 
-<b>To buy the extension, visit</b> <a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html"> Magento 2 Store Pickup</a>
+<b>To buy the extension, visit</b> <a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html"> Magento 2  Pickup in Store</a>
 
 <b><a href="https://marketplace.magento.com/fme-store-pickup.html">Get it from Marketplace</a></b> 
 
@@ -90,7 +90,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 
 <a href="https://www.fmeextensions.com/restrict-store-access-customer-groups-magento-2.html">Magento 2 Restrict by Customer Groups</a>
 
-<a href="https://www.fmeextensions.com/custom-checkout-fields-order-attributes-extension-magento-2.html">Magento 2 Custom Checkout Fields</a>
+<a href="https://www.fmeextensions.com/custom-checkout-fields-order-attributes-extension-magento-2.html">Magento 2 Extension for Custom Checkout Fields</a>
 
 <a href="https://www.fmeextensions.com/magento-geo-ip-default-store-magento-2.html">Magento 2 Store Switcher</a>
 
@@ -114,9 +114,7 @@ With the help of Magento 2 Store Pickup extension, you can offer store pickup fa
 
 <a href="https://www.fmeextensions.com/responsive-email-templates-extension-magento-2.html">Magento 2 Email Templates</a>
 
-<a href="https://www.fmeextensions.com/custom-registration-fields-attributes-extension-magento-2.html">Magento 2 Customer Attributes</a>
-
-<a href="https://www.fmeextensions.com/request-callback-hide-price-extension-magento-2.html">Magento 2 Hide Price</a>
+<a href="https://www.fmeextensions.com/magento-2-customer-attributes-extension.html">Magento 2 Customer Attributes</a>
 
 <a href="https://www.fmeextensions.com/xml-html-sitemap-seo-extension-magento-2.html">Magento 2 Sitemap</a>
 
